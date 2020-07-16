@@ -46,6 +46,7 @@ I see that bachelorette's:
                   Hannah Brown
     Season 15 - The Most Dramatic Season Yet!
   )
+  #imagining season as being a separate class
 I also see a link to see that bachelorette's contestants
 When I click on that link
 I'm taken to "/bachelorettes/:bachelorette_id/contestants"
